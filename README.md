@@ -2,11 +2,13 @@
 
 ## Janji
 
-Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Latihan Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
 
 Program ini dirancang untuk mengelola sistem toko hewan peliharaan dengan menerapkan konsep-konsep pemrograman berorientasi objek. Berikut adalah struktur hierarki kelas yang diimplementasikan:
+
+![Image](https://github.com/user-attachments/assets/12bd5a45-57dc-4d09-abaf-954d519fb3d2)
 
 ### Struktur Kelas:
 
