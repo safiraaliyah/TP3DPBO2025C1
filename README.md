@@ -8,7 +8,7 @@ Saya [ Safira Aliyah Azmi || 23092093 ] mengerjakan Tugas Praktikum 3 dalam mata
 
 Program ini dirancang untuk mengelola sistem toko hewan peliharaan dengan menerapkan konsep-konsep pemrograman berorientasi objek. Berikut adalah struktur hierarki kelas yang diimplementasikan:
 
-![Image](https://github.com/user-attachments/assets/12bd5a45-57dc-4d09-abaf-954d519fb3d2)
+![Image](https://github.com/user-attachments/assets/b3da44f4-ca82-4df0-b022-8a46e15d84d7)
 
 ### Struktur Kelas:
 
