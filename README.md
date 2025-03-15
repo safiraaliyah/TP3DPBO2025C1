@@ -83,6 +83,21 @@ Program ini dirancang untuk mengelola sistem toko hewan peliharaan dengan menera
 
 6. Demonstrasi hierarchical inheritance dengan membandingkan objek Pet (dog1) dan WildAnimal yang keduanya mewarisi dari kelas Animal.
 
+## Dokumentasi Ouput
+1. CPP
+   
+![Image](https://github.com/user-attachments/assets/2d4e424c-21ac-445a-abcc-714af53041df)
+
+3. PYTHON
+
+![Image](https://github.com/user-attachments/assets/2ee6e787-0b1f-40dd-bdec-e9495ef3b1fb)
+   
+![Image](https://github.com/user-attachments/assets/e145e1e1-91d4-4a41-bac0-e4eb47e72819)
+
+2. JAVA
+   
+![Image](https://github.com/user-attachments/assets/c60235d8-cd8c-4fb6-a8a9-868d87386e20)
+
 ## Implementasi Bahasa Pemrograman
 
 Program ini diimplementasikan dalam tiga bahasa pemrograman:
